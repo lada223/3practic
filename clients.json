@@ -1,0 +1,18 @@
+{
+    "Client1": {
+        "ip": "192.168.1.10", "network": "192.168.1.0/24",
+        "router": "Router1", "protocol": "TCP", "priority": "NORMAL"
+    },
+    "Client2": {
+        "ip": "192.168.2.10", "network": "192.168.2.0/24",
+        "router": "Router2", "protocol": "TCP", "priority": "HIGH"
+    },
+    "Client3": {
+        "ip": "192.168.3.10", "network": "192.168.3.0/24",
+        "router": "Router3", "protocol": "UDP", "priority": "NORMAL"
+    },
+    "Client4": {
+        "ip": "192.168.4.10", "network": "192.168.4.0/24",
+        "router": "WirelessRouter", "protocol": "UDP", "priority": "HIGH"
+    }
+}
